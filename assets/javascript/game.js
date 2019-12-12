@@ -7,3 +7,11 @@ var random = Math.floor((Math.random() * 120) + 1);
     document.write("Computer Number Is " + random ); 
 
 
+document.getElementById("firstBtn"){
+
+    
+
+
+}
+
+

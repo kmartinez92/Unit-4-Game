@@ -1,0 +1,12 @@
+body{
+  background: cyan;
+
+}
+
+#banner{
+    padding: 20px;
+    background: red;
+    text-emphasis-color: black;
+
+
+}
